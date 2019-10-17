@@ -31,3 +31,5 @@ This is the exact same object used programatically with router.push():
 router.push({ name: 'user', params: { userId: 123 }})
 ```
 In both cases, the router will navigate to the path /user/123.
+
+* En la carpeta /src  hay un ejemplo de rutas, menus,barra de direccionamiento,redireccionamientos etc.
