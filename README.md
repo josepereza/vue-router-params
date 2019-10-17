@@ -33,3 +33,8 @@ router.push({ name: 'user', params: { userId: 123 }})
 In both cases, the router will navigate to the path /user/123.
 
 * En la carpeta /src  hay un ejemplo de rutas, menus,barra de direccionamiento,redireccionamientos etc.
+  Esta carpeta se ha creado automaticamente al crear el proyecto vuejs con: 
+  ```
+  #vue create client3
+  ```
+  Despues se elige la opcion manual y despues la opcion Router. 
